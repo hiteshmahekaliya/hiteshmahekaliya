@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hitesh Mahekaliya</h1>
 <h3 align="center">A passionate software Developer Engineer from India</h3>
-
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="250px" align="right" alt="">
 🔭 I’m currently pursuing *B.Tech (3rd Year) in Computer Science* with a specialization in *Data Science*.  <br>🌱 I’m currently learning *Machine Learning, Data Analytics, and Python-based automation tools*.  <br>👯 I’m looking to collaborate on *data science projects, open-source contributions, and AI-based innovations*.  <br>🤝 I’m looking for help with *model optimization, real-world datasets, and research-level ML concepts*.  <br>💬 Ask me about *Python, Data Science, SQL, and Problem Solving*.  <br>⚡ Fun fact: I enjoy turning complex data into simple stories — and sometimes into cool visualizations
 
 
